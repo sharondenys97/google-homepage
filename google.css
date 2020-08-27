@@ -1,0 +1,63 @@
+body{
+    background-color: white;
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15%;
+}
+
+input{
+    border:none;
+    display: block;
+    padding: 10px;
+    margin: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    height:10% ;
+    width:50%;
+    border: 1px solid #eaeaea;
+    border-radius: 50px;
+    outline: none;
+}
+
+input:hover{
+    border-color: #a0a0a0 #b9b9b9 #b9b9b9 #b9b9b9 ;
+}
+
+input:focus{
+    border-color:#4d90fe;
+}
+
+input[type="submit"]{
+    border-radius: 4px;
+    background: #f2f2f2;
+    border: 1px solid #f2f2f2;
+    color: #757575;
+    cursor: default;
+    font-weight: lighter;
+    font-size: 14px;
+    max-width: fit-content;
+    height: 36px;
+    padding: 0px 16px;
+}
+
+input[type="submit"]:hover {
+    border: 1px solid #c6c6c6;
+    background: #f8f8f8;
+    box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+    color: #222 ;
+}
+
+.googlesearchbutton{
+    float: left;
+    margin-left: 40%;
+    margin-right: auto;
+  
+}
+.imfeelingluckybutton{
+    float: left;
+    margin-left: 10px;
+  
+}
