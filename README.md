@@ -1,3 +1,4 @@
 # google-homepage
-Build dummy google homepage from scratch
-This is my first change made!
+The Odin Project
+HTML, CSS, Javascript
+First assignment is to build Google homepage
